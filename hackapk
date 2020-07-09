@@ -2,9 +2,9 @@
 
 ## HackApk Version 1.0
 ## A Apk Hacking Framework
-## Author : Aditya Shakya (adi1090x)
-## Mail : adi1090x@gmail.com
-## Github : @adi1090x
+## Author : kisna verma (herooflostworld)
+## Mail : hlost2331@gmail.com
+## Github : kisnahero
 ## Reddit : @adi1090x
 
 ## Init
@@ -420,10 +420,10 @@ echo -e $B"        │    $C in termux. it can decompile, recompile, sign, zipal
 echo -e $B"        │    $C an android apk as well as can bind 'payload' in any apk.  $B│"
 echo -e $B"        │                                                               │"
 echo -e $B"        │                                                               │"
-echo -e $B"        │ $R>> $C Author   :$G  Aditya Shakya                                 $B│"
-echo -e $B"        │    $C Email    :$G  adi1090x@gmail.com                            $B│"
-echo -e $B"        │    $C Github   :$G  https://github.com/adi1090x                   $B│"
-echo -e $B"        │    $C Facebook :$G  https://facebook.com/adi1090x                 $B│"
+echo -e $B"        │ $R>> $C Author   :$G  Kisna verma                                 $B│"
+echo -e $B"        │    $C Email    :$G  hlost2331@gmail.com                            $B│"
+echo -e $B"        │    $C Github   :$G  https://github.com/kisnahero                  $B│"
+echo -e $B"        │    $C Facebook :$G  https://facebook.com/none                  $B│"
 echo -e $B"        │                                                               │"
 echo -e $B"        │                                                               │"
 echo -e $B"        │ $R>>  $G'Hackapk'$C is an advanced version of former apk-modding    $B│"
@@ -463,7 +463,7 @@ fi
 
 ##**********************************************##
 ##												##
-##   Developed By : Aditya Shakya // adi1090x   ##
-##   Email: adi1090x@gmail.com					##
+##   Developed By : kisna verma // kisna.hero   ##
+##   Email: hlost2331x@gmail.com					##
 ##												##
 ##**********************************************##
